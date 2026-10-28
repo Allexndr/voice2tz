@@ -23,7 +23,7 @@ MLX Whisper рассчитан на Apple Silicon. Проект не предн�
 ## Установка и запуск
 
 ```bash
-git clone <URL-репозитория>
+git clone https://github.com/Allexndr/voice2tz.git
 cd voice2tz
 python3.11 -m venv .venv
 source .venv/bin/activate
